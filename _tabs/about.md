@@ -6,7 +6,8 @@ order: 4
 
 ![Image](/assets/unsplash.jpeg)
 
-## Hi!
+
+## Merhaba!
 
 Start writing your personal story here. Delete the placeholder text and begin introducing yourself. Share your background, the work you do, your passions, and the purpose of your website. Be authentic and let your personality shine through.
 
